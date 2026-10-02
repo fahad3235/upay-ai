@@ -1,0 +1,105 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+  --font-display: 'Syne', 'Plus Jakarta Sans', sans-serif;
+  --font-mono: 'JetBrains Mono', monospace;
+}
+
+:root {
+  font-family: var(--font-sans);
+  color-scheme: light;
+}
+
+/* Custom scrollbars for clean white fintech tables */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: #f1f5f9;
+}
+::-webkit-scrollbar-thumb {
+  background: #cbd5e1;
+  border-radius: 3px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #94a3b8;
+}
+
+/* Graph edge animated flow */
+@keyframes flowDash {
+  from {
+    stroke-dashoffset: 24;
+  }
+  to {
+    stroke-dashoffset: 0;
+  }
+}
+
+.graph-edge-flow {
+  stroke-dasharray: 6 6;
+  animation: flowDash 0.85s linear infinite;
+}
+
+.graph-edge-flow-fast {
+  stroke-dasharray: 5 5;
+  animation: flowDash 0.45s linear infinite;
+}
+
+/* Pulsing Risk Halos */
+@keyframes haloPulse {
+  0% {
+    r: 22;
+    opacity: 0.8;
+  }
+  50% {
+    r: 34;
+    opacity: 0.15;
+  }
+  100% {
+    r: 44;
+    opacity: 0;
+  }
+}
+
+.halo-danger {
+  animation: haloPulse 2s cubic-bezier(0.2, 0.8, 0.2, 1) infinite;
+}
+
+.halo-warning {
+  animation: haloPulse 2.5s cubic-bezier(0.2, 0.8, 0.2, 1) infinite;
+}
+
+/* Glassmorphism surfaces */
+.glass-panel {
+  background: rgba(255, 255, 255, 0.85);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+}
+
+.glass-dark {
+  background: rgba(15, 23, 42, 0.88);
+  backdrop-filter: blur(14px);
+  -webkit-backdrop-filter: blur(14px);
+}
+
+/* Ticker Marquee */
+@keyframes marquee {
+  0% {
+    transform: translateX(0%);
+  }
+  100% {
+    transform: translateX(-50%);
+  }
+}
+
+.animate-marquee {
+  display: flex;
+  width: max-content;
+  animation: marquee 30s linear infinite;
+}
+
+.animate-marquee:hover {
+  animation-play-state: paused;
+}
