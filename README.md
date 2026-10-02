@@ -182,7 +182,9 @@ npm run lint
 ## 8. Live Deployment URL
 
 - **Primary Repository**: [https://github.com/fahad3235/upay-ai](https://github.com/fahad3235/upay-ai)
-- **Live Deployment Link**: [https://upay-ai.vercel.app](https://upay-ai.vercel.app) *(or evaluate locally via `npm run dev` at `http://localhost:3000`)*
+- **Live Cloud Prototype**: [https://extends-trails-foam-returns.trycloudflare.com](https://extends-trails-foam-returns.trycloudflare.com)
+- **Live Admin Control Plane**: [https://extends-trails-foam-returns.trycloudflare.com/admin](https://extends-trails-foam-returns.trycloudflare.com/admin) *(Username: `diudevcis` \| Password: `diudevcis`)*
+- **Local Fallback**: `http://localhost:3000` via `npm run dev`
 
 ---
 
