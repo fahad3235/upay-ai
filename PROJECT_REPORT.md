@@ -3,7 +3,8 @@
 **Event:** DIU CPC × upay — AI Hackathon 2026  
 **Track:** AI-Powered Fraud Detection & Financial Safety  
 **Repository:** [https://github.com/fahad3235/upay-ai](https://github.com/fahad3235/upay-ai)  
-**Live Cloud Demonstration:** [https://extends-trails-foam-returns.trycloudflare.com](https://extends-trails-foam-returns.trycloudflare.com)  
+**Live Netlify Production URL:** [https://upay-ai.netlify.app](https://upay-ai.netlify.app)  
+**Alternative Cloud Mirror:** [https://extends-trails-foam-returns.trycloudflare.com](https://extends-trails-foam-returns.trycloudflare.com)  
 **Date of Submission:** October 3, 2026  
 **Author / Team:** Md. Fahad (`@fahad3235`)  
 
@@ -186,12 +187,13 @@ The integrity of this chain is verified on each report generation, preventing re
 
 Evaluators and judges can access the complete live deployment, inspect source code, or run verification test suites:
 
-- **Live Cloud Prototype:** [https://extends-trails-foam-returns.trycloudflare.com](https://extends-trails-foam-returns.trycloudflare.com)
-- **Investigation Reports Dossier:** [https://extends-trails-foam-returns.trycloudflare.com/reports](https://extends-trails-foam-returns.trycloudflare.com/reports)
-- **Topological TrustGraph:** [https://extends-trails-foam-returns.trycloudflare.com/trustgraph](https://extends-trails-foam-returns.trycloudflare.com/trustgraph)
-- **Admin Control Plane:** [https://extends-trails-foam-returns.trycloudflare.com/admin](https://extends-trails-foam-returns.trycloudflare.com/admin)
+- **Live Netlify Production URL:** [https://upay-ai.netlify.app](https://upay-ai.netlify.app)
+- **Investigation Reports Dossier:** [https://upay-ai.netlify.app/reports](https://upay-ai.netlify.app/reports)
+- **Topological TrustGraph:** [https://upay-ai.netlify.app/trustgraph](https://upay-ai.netlify.app/trustgraph)
+- **Admin Control Plane:** [https://upay-ai.netlify.app/admin](https://upay-ai.netlify.app/admin)
   - *Username:* `diudevcis`
   - *Password:* `diudevcis`
+- **Alternative Cloud Mirror:** [https://extends-trails-foam-returns.trycloudflare.com](https://extends-trails-foam-returns.trycloudflare.com)
 - **GitHub Repository:** [https://github.com/fahad3235/upay-ai](https://github.com/fahad3235/upay-ai)
 
 ---
