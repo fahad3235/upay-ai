@@ -1,0 +1,6 @@
+{
+  "name": "UPAY SENTINEL AI - TrustGraph Financial Intelligence",
+  "description": "Explainable financial safety intelligence platform combining transaction, behavioral, and graph intelligence with AI investigation copilot for DIU CPC × upay AI Hackathon 2026.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
