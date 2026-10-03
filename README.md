@@ -1,6 +1,6 @@
 # UPAY SENTINEL AI
 ### TrustGraph Financial Intelligence Platform
-**DIU CPC × upay — AI HACKATHON 2026**
+**DIU CPC × upay - AI HACKATHON 2026**
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-fahad3235%2Fupay--ai-blue.svg?logo=github)](https://github.com/fahad3235/upay-ai)
 [![License: MIT](https://img.shields.io/badge/License-MIT-emerald.svg)](LICENSE)
@@ -157,7 +157,7 @@ Starts the combined full-stack Express server and Vite development environment w
 npm run dev
 ```
 Once started, access the application in your browser at:  
-👉 **`http://localhost:3000`**
+ **`http://localhost:3000`**
 
 ### Production Build
 Compiles TypeScript, bundles assets, and optimizes CSS using Vite:
@@ -245,8 +245,14 @@ The application includes a fully functional Admin Control Plane to calibrate ris
 
 ---
 
-### Team Information & Acknowledgments
+
+### Team Information & Acknowledgments 
+
+- **Team Name**: Team Probaho
 - **Project**: UPAY SENTINEL AI
 - **Repository**: [fahad3235/upay-ai](https://github.com/fahad3235/upay-ai)
-- **Contest**: DIU CPC × upay — AI HACKATHON 2026
-- **Developer**: Md. Fahad (`@fahad3235`)
+- **Contest**: DIU CPC × upay - AI HACKATHON 2026
+- **Team Members & Roles**:
+  - **Md. Fahad** (`@fahad3235`) - Lead System Developer
+  - **Md. Muhsinul Islam** (`@muhsinulmuin`) - Product Manager, Technical Documentation & Pitch Lead
+  - **Shihab Sarker** (`@Shihab-617`) - AI Product Strategist
