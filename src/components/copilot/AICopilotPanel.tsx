@@ -47,6 +47,7 @@ interface ChatMessage {
 }
 
 // Helper to render inline markdown (bold, code, italics)
+
 const renderInlineMarkdown = (text: string): React.ReactNode => {
   const tokens = text.split(/(\*\*[^*]+\*\*|`[^`]+`|\*[^*]+\*)/g);
   return tokens.map((token, i) => {
@@ -971,3 +972,4 @@ I am your conversational financial intelligence and investigation assistant powe
     </div>
   );
 };
+//shihab@
