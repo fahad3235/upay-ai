@@ -5,8 +5,11 @@ const BASE_URL = 'http://localhost:3000';
 
 async function testConcurrency() {
   console.log('Testing concurrent account creation at boundary...');
+
   
-  // 1. Login as Super Admin
+  
+  // Login as Super Admin
+  
   const login = await fetch(`${BASE_URL}/api/auth/login`, {
     method: 'POST',
     headers: { 'Content-Type': 'application/json' },
@@ -14,7 +17,8 @@ async function testConcurrency() {
   });
   const { token } = await login.json();
 
-  // 2. Fetch current users
+  // Fetch current users
+  
   const usersRes = await fetch(`${BASE_URL}/api/admin/users`, {
     headers: { Authorization: `Bearer ${token}` },
   });
@@ -31,7 +35,7 @@ async function testConcurrency() {
     console.log(`Disabled member ${member.email}, active count is now 4`);
   }
 
-  // 4. Fire TWO concurrent account creation requests
+  // Fire 2 concurrent account creation requests
   console.log('Firing 2 concurrent creation requests simultaneously...');
   const [res1, res2] = await Promise.all([
     fetch(`${BASE_URL}/api/admin/users`, {
