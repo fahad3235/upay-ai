@@ -1,4 +1,4 @@
-# UPAY SENTINEL AI — AI TEAM MEMORY (TITAN NEXUS Ω)
+# UPAY SENTINEL AI - AI TEAM MEMORY (TITAN NEXUS Ω)
 
 ## Specialist Team Routing Table
 
