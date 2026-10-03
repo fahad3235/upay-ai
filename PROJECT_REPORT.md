@@ -1,12 +1,15 @@
 # UPAY SENTINEL AI — TECHNICAL PROJECT REPORT & EVALUATION DOSSIER
 ### TrustGraph Financial Intelligence Platform for Mobile Financial Services
-**Event:** DIU CPC × upay — AI Hackathon 2026  
-**Track:** AI-Powered Fraud Detection & Financial Safety  
+**Event:** DIU CPC × upay - AI Hackathon 2026  
+**Track:** Trust & Risk Intelligence   
 **Repository:** [https://github.com/fahad3235/upay-ai](https://github.com/fahad3235/upay-ai)  
 **Live Netlify Production URL:** [https://upay-ai.netlify.app](https://upay-ai.netlify.app)  
 **Alternative Cloud Mirror:** [https://extends-trails-foam-returns.trycloudflare.com](https://extends-trails-foam-returns.trycloudflare.com)  
 **Date of Submission:** October 3, 2026  
-**Author / Team:** Md. Fahad (`@fahad3235`)  
+**Team:** 
+**Md. Fahad (`@fahad3235`)** - Lead System Developer
+**Md. Muhsinul Islam (`@muhsinulmuin`)** - Product Manager, Technical Documentation & Pitch Lead
+**Shihab Sarker (`@Shihab-617`)** - AI Product Strategist  
 
 ---
 
@@ -197,6 +200,6 @@ Evaluators and judges can access the complete live deployment, inspect source co
 - **GitHub Repository:** [https://github.com/fahad3235/upay-ai](https://github.com/fahad3235/upay-ai)
 
 ---
-
-*UPAY SENTINEL AI — Before money moves, understand the risk.*  
-*DIU CPC × upay — AI HACKATHON 2026*
+@@
+*UPAY SENTINEL AI - Before money moves, understand the risk.*  
+*DIU CPC × upay - AI HACKATHON 2026*
