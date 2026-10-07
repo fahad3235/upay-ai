@@ -182,9 +182,9 @@ npm run lint
 ## 8. Live Deployment URL
 
 - **Primary Repository**: [https://github.com/fahad3235/upay-ai](https://github.com/fahad3235/upay-ai)
-- **Live Netlify Production URL**: [https://upay-ai.netlify.app](https://upay-ai.netlify.app)
+- **Live Netlify Production URL**: [https://upay-ai.netlify.app](https://upa-ai-dev.netlify.app/)
 - **Live Admin Control Plane**: [https://upay-ai.netlify.app/admin](https://upay-ai.netlify.app/admin) *(Username: `diudevcis` \| Password: `diudevcis`)*
-- **Alternative Cloud Mirror**: [https://extends-trails-foam-returns.trycloudflare.com](https://extends-trails-foam-returns.trycloudflare.com)
+
 - **Local Fallback**: `http://localhost:3000` via `npm run dev`
 
 ---
