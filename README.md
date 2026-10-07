@@ -183,7 +183,7 @@ npm run lint
 
 - **Primary Repository**: [https://github.com/fahad3235/upay-ai](https://github.com/fahad3235/upay-ai)
 - **Live Netlify Production URL**: [https://upay-ai.netlify.app](https://upa-ai-dev.netlify.app/)
-- **Live Admin Control Plane**: [https://upay-ai.netlify.app/admin](https://upay-ai.netlify.app/admin) *(Username: `diudevcis` \| Password: `diudevcis`)*
+- **Live Admin Control Plane**: [https://upay-ai.netlify.app/admin](https://upay-ai.netlify.app/admin) *(Username: `demo@company.com` \| Password: `demo-password`)*
 
 - **Local Fallback**: `http://localhost:3000` via `npm run dev`
 
